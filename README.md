@@ -1,2 +1,0 @@
-# bootstrap
-Taller de Bootstrap
