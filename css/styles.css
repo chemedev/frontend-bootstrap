@@ -1,0 +1,41 @@
+.carousel-item {
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+h1 {
+	font-size: 10vw;
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+.wImg {
+	width: 50px;
+}
+
+section.form {
+	background-image: url(../img/form.jpg);
+	background-size: cover;
+	background-attachment: scroll;
+}
+
+label {
+	color: white;
+	font-weight: bolder;
+	font-size: 18px;
+}
+
+.contacto {
+	color: white;
+}
+
+.fas {
+	font-size: 30px;
+}
+
+@media (min-width: 576px) {
+	section.form {
+		background-attachment: fixed;
+	}
+}
